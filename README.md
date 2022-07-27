@@ -1,5 +1,9 @@
-# COVID_19_risk_model
-A public repo to infer significant COVID-19 risk factors of infection at Lower Layer Super Output Areas (LSOA) in England
+# Understanding community level influences on COVID-19 prevalence in England: New insights from comparison over time and space
+A public repo to infer significant COVID-19 risk factors of infection at Lower Layer Super Output Areas (LSOA) in England.
+More details on the methodology and the main findings of this work are available here
+
+https://www.medrxiv.org/content/10.1101/2022.04.14.22273759v1
+
 
 # COVID-19 LSOA Risk Model 
 
